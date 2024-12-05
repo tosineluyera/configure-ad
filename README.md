@@ -105,6 +105,6 @@
  <img src="https://i.imgur.com/4nIUKyF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Conclusion</h2>
-<p>In this lab, we deployed and configured a working Active Directory environment. We set up a Domain Controller and a client machine in Azure, ensured they could communicate, and installed Active Directory Domain Services. After creating a new domain, we added organizational units and user accounts, including an admin account, and joined the client to the domain.</p>
+<p>In this lab, I deployed and configured a working Active Directory environment. I set up a Domain Controller and a client machine in Azure, ensured they could communicate, and installed Active Directory Domain Services. After creating a new domain, I added organizational units and user accounts, including an admin account, and joined the client to the domain.</p>
 
-<p>We also configured Remote Desktop access for domain users and used a PowerShell script to generate additional users. Finally, we tested logging into the client with one of the new accounts. This lab gave us hands-on experience with essential Active Directory tasks and configurations.</p>
+<p>I also configured Remote Desktop access for domain users and used a PowerShell script to generate additional users. Finally, I tested logging into the client with one of the new accounts. This lab gave me hands-on experience with essential Active Directory tasks and configurations.</p>
